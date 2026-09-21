@@ -104,4 +104,8 @@ By the end of the course, students will be able to:
 - Understand how C differs from Java and how it connects to Python  
 - Demonstrate foundational skills for later systems and software courses
 
+Submission Note for Lab 1
+Built with `make` and ran `./bin/hello` successfully in GitHub Codespaces.
+Output: "Hello, from Angel!"
+
 
